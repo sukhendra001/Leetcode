@@ -34,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/sukhendra001/Leetcode/tree/master/1642-water-bottles) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/sukhendra001/Leetcode/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/sukhendra001/Leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
