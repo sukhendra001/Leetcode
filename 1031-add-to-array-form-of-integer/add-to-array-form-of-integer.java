@@ -21,11 +21,11 @@ class Solution {
 
             ans.add(digit);
 
-            p--;
-            k = k/10;
+            p--;  // moving the pointer
+            k = k/10;    //removing the last digit from k
         }
         if (carry>0) {
-            ans.add(carry);
+            ans.add(carry);    //reversing the ans array  list
         }
 
         Collections.reverse(ans);
