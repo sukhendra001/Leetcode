@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sukhendra001/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/sukhendra001/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/sukhendra001/Leetcode/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/sukhendra001/Leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sukhendra001/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/sukhendra001/Leetcode/tree/master/0053-maximum-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sukhendra001/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/sukhendra001/Leetcode/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/sukhendra001/Leetcode/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/sukhendra001/Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sukhendra001/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1019-squares-of-a-sorted-array](https://github.com/sukhendra001/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
