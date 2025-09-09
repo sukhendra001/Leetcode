@@ -1,12 +1,20 @@
 public class Solution {
     public int maxSubArray(int[] nums) {
-        int maxSum = nums[0]; // Initialize with the first element
-        int currentSum = nums[0];
+        
+        int maxSum = Integer.MIN_VALUE;
 
-        for (int i = 1; i < nums.length; i++) {
-            // Decide whether to start a new subarray at i or continue previous one
-            currentSum = Math.max(nums[i], currentSum + nums[i]);
-            maxSum = Math.max(maxSum, currentSum);
+        int curr = 0;
+
+        for(int i=0; i<=nums.length-1; i++){
+            curr+=nums[i];
+
+            if(curr > maxSum){
+                maxSum = curr;
+            }
+
+            if(curr < 0){
+                curr = 0;
+            }
         }
 
         return maxSum;
