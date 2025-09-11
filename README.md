@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sukhendra001/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/sukhendra001/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sukhendra001/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/sukhendra001/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sukhendra001/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/sukhendra001/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/sukhendra001/Leetcode/tree/master/0268-missing-number) |
@@ -68,12 +69,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sukhendra001/Leetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/sukhendra001/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sukhendra001/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sukhendra001/Leetcode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sukhendra001/Leetcode/tree/master/0015-3sum) |
+| [0169-majority-element](https://github.com/sukhendra001/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sukhendra001/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sukhendra001/Leetcode/tree/master/0268-missing-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/sukhendra001/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sukhendra001/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/sukhendra001/Leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/sukhendra001/Leetcode/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -129,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sukhendra001/Leetcode/tree/master/0011-container-with-most-water) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sukhendra001/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
