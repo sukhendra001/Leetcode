@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sukhendra001/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/sukhendra001/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/sukhendra001/Leetcode/tree/master/0268-missing-number) |
+| [0904-fruit-into-baskets](https://github.com/sukhendra001/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/sukhendra001/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/sukhendra001/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/sukhendra001/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sukhendra001/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sukhendra001/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sukhendra001/Leetcode/tree/master/0268-missing-number) |
+| [0904-fruit-into-baskets](https://github.com/sukhendra001/Leetcode/tree/master/0904-fruit-into-baskets) |
 ## Sorting
 |  |
 | ------- |
@@ -163,4 +165,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sukhendra001/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0904-fruit-into-baskets](https://github.com/sukhendra001/Leetcode/tree/master/0904-fruit-into-baskets) |
 <!---LeetCode Topics End-->
