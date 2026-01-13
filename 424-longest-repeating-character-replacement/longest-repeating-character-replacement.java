@@ -13,15 +13,12 @@ class Solution {
             // Update the max frequency
             maxFreq = Math.max(maxFreq, freq[s.charAt(right) - 'A']);
 
-            
-
             // if the windowLength - max frequency > k,
             // then we need to shrink the window
             while ((right - left + 1) - maxFreq > k) {
                 freq[s.charAt(left) - 'A']--;
                 left++;
             }
-
             int windowLength = right - left + 1;
 
             // Update maximum window length
