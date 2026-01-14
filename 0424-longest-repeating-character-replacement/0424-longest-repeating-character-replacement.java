@@ -9,6 +9,7 @@ class Solution {
 
             // Update the frequency of the current character
             freq[s.charAt(right) - 'A']++;
+            
 
             // Update the max frequency
             maxFreq = Math.max(maxFreq, freq[s.charAt(right) - 'A']);
