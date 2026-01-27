@@ -14,7 +14,6 @@ class Solution {
 
             maxend = Math.max(v1, Math.max(v2, v3));   
             minend = Math.min(v1, Math.min(v2, v3));
-            maxend = Math.max(minend, maxend); 
 
             res = Math.max(res, maxend);
         }
