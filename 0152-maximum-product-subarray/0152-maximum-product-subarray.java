@@ -1,23 +1,23 @@
-public class Solution {
+class Solution {
     public int maxProduct(int[] nums) {
-        int maxProd = nums[0];
-        int minProd = nums[0];
-        int result = nums[0];
+        
+        int maxend= nums[0];
+        int minend = nums[0];
 
-        for (int i = 1; i < nums.length; i++) {
-            if (nums[i] < 0) {
-                // Swap because multiplying by a negative flips max/min
-                int temp = maxProd;
-                maxProd = minProd;
-                minProd = temp;
-            }
+        int res = nums[0];
 
-            maxProd = Math.max(nums[i], maxProd * nums[i]);
-            minProd = Math.min(nums[i], minProd * nums[i]);
+        for(int i=1; i<nums.length; i++){
 
-            result = Math.max(result, maxProd);
+            int v1 = nums[i];
+            int v2 = minend * nums[i];
+            int v3 = maxend * nums[i];
+
+            maxend = Math.max(v1, Math.max(v2, v3));   
+            minend = Math.min(v1, Math.min(v2, v3));
+            maxend = Math.max(minend, maxend); 
+
+            res = Math.max(res, maxend);
         }
-
-        return result;
+        return res;
     }
 }
