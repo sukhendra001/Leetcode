@@ -4,7 +4,7 @@ class Solution {
         int maxSum = nums[0];
         int minSum = nums[0];
 
-        int res = nums[0];
+        int res = Math.abs(nums[0]);
         int maxRes = nums[0];
         int minRes = nums[0];
 
@@ -17,6 +17,6 @@ class Solution {
 
             res = Math.max(Math.abs(minRes), maxRes);
         }
-        return Math.abs(res);
+        return res;
     }
 }
