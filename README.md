@@ -205,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/sukhendra001/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/sukhendra001/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/sukhendra001/Leetcode/tree/master/0876-middle-of-the-linked-list) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/sukhendra001/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
