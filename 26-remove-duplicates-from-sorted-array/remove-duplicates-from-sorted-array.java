@@ -6,19 +6,17 @@ class Solution {
 
         int slow = 0;
         int fast = 1;
-        int unique = 1;
-        int n = nums.length;
-        while(fast < n){
+        for(int i=fast; i<nums.length; i++){
             if(nums[slow] == nums[fast]){
                 fast++;
             }else{
-                nums[slow+1] = nums[fast];
-                unique++;
                 slow++;
+                int temp = nums[fast];
+                nums[fast] = nums[slow];
+                nums[slow] = temp;
                 fast++;
             }
         }
-        return unique;
+        return slow + 1;
     }
-    
 }
