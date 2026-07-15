@@ -5,16 +5,11 @@ class Solution {
         }
 
         int slow = 0;
-        int fast = 1;
-        for(int i=fast; i<nums.length; i++){
-            if(nums[slow] == nums[fast]){
-                fast++;
-            }else{
+
+        for(int fast=1; fast<nums.length; fast++){
+            if(nums[slow] != nums[fast]){
                 slow++;
-                int temp = nums[fast];
-                nums[fast] = nums[slow];
-                nums[slow] = temp;
-                fast++;
+                nums[slow]=nums[fast];
             }
         }
         return slow + 1;
